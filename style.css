@@ -1,0 +1,49 @@
+html, body {
+    background-color: lightblue;
+}
+
+#tickbox {
+    display: flex;
+    width: 30%;
+    height: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    border-radius: 10px;
+    border: 3px solid darkslateblue;
+
+}
+
+#submit {
+    color: white;
+    background-color: darkslateblue;
+    width: 80%;
+    height: 10%;
+    margin-top: 10px;
+}
+
+#submit:hover {
+    background-color: lightblue;
+    cursor: pointer;
+}
+
+#inp {
+    width: 80%;
+}
+
+#inp1 {
+    width: 80%;
+}
+
+h1 {
+    color: darkslateblue;
+}
+
+#messy {
+    color: darkslateblue;
+}
+
+
